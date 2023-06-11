@@ -1,0 +1,10 @@
+.Sidebar {
+    flex: 3;
+    height: calc(100vh - 50px);
+
+}
+
+.SidebarWrapper {
+    padding: 20px;
+    background-color: gray;
+}
